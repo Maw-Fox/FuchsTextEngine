@@ -6,6 +6,7 @@
  */
 
 ///<reference path="../lib/vue.d.ts" />
-///<reference path="parser/classes" />
-///<reference path="parser/module" />
-///<reference path="vm/module" />
+///<reference path="interfaces.ts" />
+///<reference path="parsing/module.ts" />
+///<reference path="parsing/classes.ts" />
+///<reference path="vm/module.ts" />

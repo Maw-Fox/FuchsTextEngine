@@ -1,15 +1,10 @@
 {
     "compilerOptions": {
         "out": "../build/fte.js",
-    	"noResolve": true,
         "removeComments": true,
     	"target": "es5"
     },
     "files": [
-        "app.d.ts",
-        "../lib/vue.d.ts",
-        "parser/classes.ts",
-        "parser/module.ts",
-        "vm/module.ts"
+        "app.d.ts"
     ]
 }
