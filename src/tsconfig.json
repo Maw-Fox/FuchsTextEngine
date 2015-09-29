@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "out": "../build/fuchs-game-engine.js",
+    	"noResolve": true,
+        "removeComments": true,
+    	"target": "es5"
+    },
+    "files": [
+        "app.d.ts",
+        "parser/classes",
+        "parser/module"
+    ]
+}
