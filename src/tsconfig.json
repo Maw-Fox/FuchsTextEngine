@@ -1,13 +1,15 @@
 {
     "compilerOptions": {
-        "out": "../build/fuchs-game-engine.js",
+        "out": "../build/fte.js",
     	"noResolve": true,
         "removeComments": true,
     	"target": "es5"
     },
     "files": [
         "app.d.ts",
-        "parser/classes",
-        "parser/module"
+        "../lib/vue.d.ts",
+        "parser/classes.ts",
+        "parser/module.ts",
+        "vm/module.ts"
     ]
 }

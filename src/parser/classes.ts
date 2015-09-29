@@ -1,5 +1,5 @@
 /**
- * Text-game parser: Classes
+ * Text-game parser: Parser classes
  * Reqs: Vue.js [Data-binding DOM library]
  * @author: Kali@F-list.net (MawFox on GitHub)
  * Protected under MIT Licence.
@@ -9,5 +9,4 @@
 ///<reference path="../app.d.ts" />
 
 module Game {
-
 }

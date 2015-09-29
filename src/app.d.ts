@@ -8,3 +8,4 @@
 ///<reference path="../lib/vue.d.ts" />
 ///<reference path="parser/classes" />
 ///<reference path="parser/module" />
+///<reference path="vm/module" />
