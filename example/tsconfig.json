@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "out": "scene.js",
+        "removeComments": true,
+    	"target": "es5"
+    },
+    "files": [
+        "scene.ts"
+    ]
+}
